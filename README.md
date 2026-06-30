@@ -184,12 +184,3 @@ eas build --profile production
 - Movie and TV metadata is provided by [TMDB](https://www.themoviedb.org/). This product uses the TMDB API but is not endorsed or certified by TMDB.
 - Streaming embeds in the player are third-party sources. Availability and legality vary by region. Use responsibly.
 
----
-
-## Author
-
-**Khuzaim Adnan Qureshi**
-
-- Email: [khuzaimadnana@gmail.com](mailto:khuzaimadnana@gmail.com)
-- Contact: +923319067589
-
